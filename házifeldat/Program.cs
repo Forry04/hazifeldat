@@ -12,7 +12,6 @@ namespace házifeldat
         static void Main(string[] args)
         {
             string szamok="";
-            string ki;
             string adatok = "10;7;5";
 
             foreach (var item in adatok)
